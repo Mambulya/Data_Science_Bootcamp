@@ -1,0 +1,12 @@
+2024-12-29 13:25:49 Research instance is initialiased,    Method: Research.__init__
+2024-12-29 13:25:49 File processing is completed with 11,  Method: file_reader
+2024-12-29 13:25:49 Calculations instance is initialiased,   Method: Calculations.__init__
+2024-12-29 13:25:49 Counting heads and tails ...,  Method: counts
+2024-12-29 13:25:49 counts() has worked successfully
+2024-12-29 13:25:49 Counting posibilities ..., Method: fractions
+2024-12-29 13:25:49 fractions() has worked successfully: 5 * 100  heads 6 * 100 tails,   Method: fractions
+2024-12-29 13:25:49 +1 predictions has been calculated and added successfully: 0 for heads and 1 for tails, Method: predict_random
+2024-12-29 13:25:49 +1 predictions has been calculated and added successfully: 1 for heads and 0 for tails, Method: predict_random
+2024-12-29 13:25:49 +1 predictions has been calculated and added successfully: 0 for heads and 1 for tails, Method: predict_random
+2024-12-29 13:25:49 Calculations instance is initialiased,   Method: Calculations.__init__
+2024-12-29 13:25:49 Data has been successfully added to the report.txt: Report...,   Method: save_file
