@@ -1,3 +1,2 @@
-
-*.ipynb linguist-vendored=false
+*.ipynb linguist-language=Notebook
 *.py linguist-language=Python
